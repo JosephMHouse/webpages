@@ -1,19 +1,25 @@
 /*
- *Name: [First Last]
- *UnityID: [unityID]
- *Date: [Date Completed]
- *Assignment: [Assignment Name]
- *Description: [Assignment Description]
+ *Name: Joseph House
+ *UnityID: jmhouse
+ *Date: 9/29/19
+ *Assignment: Website Design and Styling Independent Assignment
+ *Description: Assignment to design a webpage using html and css to certain design specifications
  */
- 
+
+body {
+    background-color: #ADD8E6 
+}
+
 p {
     property: value;
 }
 
-.class {
-    property: value;
+.table-border {
+    border: 1px solid #FFFF00;
 }
 
-#id {
-    property:value;
+#image-resize {
+    border: 2px outset #008000;
+    max-width: 200px;
+    max-height: 250px;
 }
